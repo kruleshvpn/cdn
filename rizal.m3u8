@@ -407,7 +407,7 @@ http://146.190.104.48:1234/stream/cdnindonesia/xtremsports/master.m3u8?u=padootv
 http://146.190.104.48:1234/stream/cdnindonesia/zeebioskop/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
 
 #EXTINF:-1 group-title="ASTROGO" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TV3
-https://padootv.me/astro/astro.m3u8?channel=546
+https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311&amp;hdnts=exp=1740560856~hmac=6ba66f3fb1383c910680280372b1945b77231085735269da6f4f4024ff7d31c1
 
 #EXTINF:-1 group-title="ASTROGO" tvg-id="ALHIJRAH" tvg-name="ALHIJRAH" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ALHIJRAH
 http://146.190.104.48:1234/stream/AOTG/ALHIJRAH/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
