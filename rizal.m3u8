@@ -1,0 +1,553 @@
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ABCAUSTRALIA" tvg-name="ABCAUSTRALIA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ABCAUSTRALIA
+http://146.190.104.48:1234/stream/cdnindonesia/abcaustralia/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ALJAZEERA" tvg-name="ALJAZEERA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ALJAZEERA
+http://146.190.104.48:1234/stream/cdnindonesia/aljazeera/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ALQURANALKAREEM" tvg-name="ALQURANALKAREEM" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ALQURANALKAREEM
+http://146.190.104.48:1234/stream/cdnindonesia/alquranalkareem/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ANTV
+http://146.190.104.48:1234/stream/cdnindonesia/antv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ARIRANG" tvg-name="ARIRANG" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ARIRANG
+http://146.190.104.48:1234/stream/cdnindonesia/arirang/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="AXN" tvg-name="AXN" tvg-logo="https://padootv.me/img/logo/PadooTV.png",AXN
+http://146.190.104.48:1234/stream/cdnindonesia/axn/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="BALAP" tvg-name="BALAP" tvg-logo="https://padootv.me/img/logo/PadooTV.png",BALAP
+http://146.190.104.48:1234/stream/cdnindonesia/balap/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="BIOSKOPINDONESIA" tvg-name="BIOSKOPINDONESIA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",BIOSKOPINDONESIA
+http://146.190.104.48:1234/stream/cdnindonesia/bioskopindonesia/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="BOONIECUBSTV" tvg-name="BOONIECUBSTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",BOONIECUBSTV
+http://146.190.104.48:1234/stream/cdnindonesia/booniecubstv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="BTV" tvg-name="BTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",BTV
+http://146.190.104.48:1234/stream/cdnindonesia/btv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CARTOONITO
+http://146.190.104.48:1234/stream/cdnindonesia/cartoonito/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CARTOONNETWORK" tvg-name="CARTOONNETWORK" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CARTOONNETWORK
+http://146.190.104.48:1234/stream/cdnindonesia/cartoonnetwork/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CARTOONTV" tvg-name="CARTOONTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CARTOONTV
+http://146.190.104.48:1234/stream/cdnindonesia/cartoontv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CARTOONTVCLASSICS" tvg-name="CARTOONTVCLASSICS" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CARTOONTVCLASSICS
+http://146.190.104.48:1234/stream/cdnindonesia/cartoontvclassics/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CARTOONTVPREMIUM" tvg-name="CARTOONTVPREMIUM" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CARTOONTVPREMIUM
+http://146.190.104.48:1234/stream/cdnindonesia/cartoontvpremium/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CCTV4
+http://146.190.104.48:1234/stream/cdnindonesia/cctv4/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CELESTIALMOVIES" tvg-name="CELESTIALMOVIES" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CELESTIALMOVIES
+http://146.190.104.48:1234/stream/cdnindonesia/celestialmovies/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CGTN
+http://146.190.104.48:1234/stream/cdnindonesia/cgtn/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CGTNDOCUMENTARY" tvg-name="CGTNDOCUMENTARY" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CGTNDOCUMENTARY
+http://146.190.104.48:1234/stream/cdnindonesia/cgtndocumentary/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CHANNELJOWO" tvg-name="CHANNELJOWO" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CHANNELJOWO
+http://146.190.104.48:1234/stream/cdnindonesia/channeljowo/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CHANNELSERU" tvg-name="CHANNELSERU" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CHANNELSERU
+http://146.190.104.48:1234/stream/cdnindonesia/channelseru/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CINEMAWORLD" tvg-name="CINEMAWORLD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CINEMAWORLD
+http://146.190.104.48:1234/stream/cdnindonesia/cinemaworld/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CINEMAX
+http://146.190.104.48:1234/stream/cdnindonesia/cinemax/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CNA
+http://146.190.104.48:1234/stream/cdnindonesia/cna/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CNBCINDONESIA" tvg-name="CNBCINDONESIA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CNBCINDONESIA
+http://146.190.104.48:1234/stream/cdnindonesia/cnbcindonesia/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CNNINDONESIA" tvg-name="CNNINDONESIA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CNNINDONESIA
+http://146.190.104.48:1234/stream/cdnindonesia/cnnindonesia/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CNNINTERNATIONAL" tvg-name="CNNINTERNATIONAL" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CNNINTERNATIONAL
+http://146.190.104.48:1234/stream/cdnindonesia/cnninternational/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="COOKINGTV" tvg-name="COOKINGTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",COOKINGTV
+http://146.190.104.48:1234/stream/cdnindonesia/cookingtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="CREMATV" tvg-name="CREMATV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",CREMATV
+http://146.190.104.48:1234/stream/cdnindonesia/crematv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="DAAITV" tvg-name="DAAITV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",DAAITV
+http://146.190.104.48:1234/stream/cdnindonesia/daaitv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="DIZI" tvg-name="DIZI" tvg-logo="https://padootv.me/img/logo/PadooTV.png",DIZI
+http://146.190.104.48:1234/stream/cdnindonesia/dizi/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="DUCKTV" tvg-name="DUCKTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",DUCKTV
+http://146.190.104.48:1234/stream/cdnindonesia/ducktv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="DUNIAANAK" tvg-name="DUNIAANAK" tvg-logo="https://padootv.me/img/logo/PadooTV.png",DUNIAANAK
+http://146.190.104.48:1234/stream/cdnindonesia/duniaanak/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="DUNIALAIN" tvg-name="DUNIALAIN" tvg-logo="https://padootv.me/img/logo/PadooTV.png",DUNIALAIN
+http://146.190.104.48:1234/stream/cdnindonesia/dunialain/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="DW" tvg-name="DW" tvg-logo="https://padootv.me/img/logo/PadooTV.png",DW
+http://146.190.104.48:1234/stream/cdnindonesia/dw/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="EATNGO" tvg-name="EATNGO" tvg-logo="https://padootv.me/img/logo/PadooTV.png",EATNGO
+http://146.190.104.48:1234/stream/cdnindonesia/eatngo/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ENGLISHCLUBTV" tvg-name="ENGLISHCLUBTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ENGLISHCLUBTV
+http://146.190.104.48:1234/stream/cdnindonesia/englishclubtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",FASHIONTV
+http://146.190.104.48:1234/stream/cdnindonesia/fashiontv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="FIGHTTVPREMIUM" tvg-name="FIGHTTVPREMIUM" tvg-logo="https://padootv.me/img/logo/PadooTV.png",FIGHTTVPREMIUM
+http://146.190.104.48:1234/stream/cdnindonesia/fighttvpremium/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="FITNESSTV" tvg-name="FITNESSTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",FITNESSTV
+http://146.190.104.48:1234/stream/cdnindonesia/fitnesstv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="FOOTBALLTV" tvg-name="FOOTBALLTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",FOOTBALLTV
+http://146.190.104.48:1234/stream/cdnindonesia/footballtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://padootv.me/img/logo/PadooTV.png",FRANCE24
+http://146.190.104.48:1234/stream/cdnindonesia/france24/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="GAMINGTV" tvg-name="GAMINGTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",GAMINGTV
+http://146.190.104.48:1234/stream/cdnindonesia/gamingtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="GEMTV" tvg-name="GEMTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",GEMTV
+http://146.190.104.48:1234/stream/cdnindonesia/gemtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="GLOBALTV" tvg-name="GLOBALTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",GLOBALTV
+http://146.190.104.48:1234/stream/cdnindonesia/globaltv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="GOLF+" tvg-name="GOLF+" tvg-logo="https://padootv.me/img/logo/PadooTV.png",GOLF+
+http://146.190.104.48:1234/stream/cdnindonesia/golf+/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="GOSSIP" tvg-name="GOSSIP" tvg-logo="https://padootv.me/img/logo/PadooTV.png",GOSSIP
+http://146.190.104.48:1234/stream/cdnindonesia/gossip/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HBO
+http://146.190.104.48:1234/stream/cdnindonesia/hbo/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="HBOFAMILY" tvg-name="HBOFAMILY" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HBOFAMILY
+http://146.190.104.48:1234/stream/cdnindonesia/hbofamily/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="HBOHITS" tvg-name="HBOHITS" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HBOHITS
+http://146.190.104.48:1234/stream/cdnindonesia/hbohits/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HBOSIGNATURE
+http://146.190.104.48:1234/stream/cdnindonesia/hbosignature/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="HISTORICALSPORTS" tvg-name="HISTORICALSPORTS" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HISTORICALSPORTS
+http://146.190.104.48:1234/stream/cdnindonesia/historicalsports/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="HORIZONSPORTS" tvg-name="HORIZONSPORTS" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HORIZONSPORTS
+http://146.190.104.48:1234/stream/cdnindonesia/horizonsports/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="HOWTO" tvg-name="HOWTO" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HOWTO
+http://146.190.104.48:1234/stream/cdnindonesia/howto/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="IDCYCLIST" tvg-name="IDCYCLIST" tvg-logo="https://padootv.me/img/logo/PadooTV.png",IDCYCLIST
+http://146.190.104.48:1234/stream/cdnindonesia/idcyclist/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="INDOSIAR" tvg-name="INDOSIAR" tvg-logo="https://padootv.me/img/logo/PadooTV.png",INDOSIAR
+http://146.190.104.48:1234/stream/cdnindonesia/indosiar/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="INSERT" tvg-name="INSERT" tvg-logo="https://padootv.me/img/logo/PadooTV.png",INSERT
+http://146.190.104.48:1234/stream/cdnindonesia/insert/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="JAKTV" tvg-name="JAKTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",JAKTV
+http://146.190.104.48:1234/stream/cdnindonesia/jaktv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="JTV" tvg-name="JTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",JTV
+http://146.190.104.48:1234/stream/cdnindonesia/jtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="KBSWORLD" tvg-name="KBSWORLD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",KBSWORLD
+http://146.190.104.48:1234/stream/cdnindonesia/kbsworld/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="KHAZANAH" tvg-name="KHAZANAH" tvg-logo="https://padootv.me/img/logo/PadooTV.png",KHAZANAH
+http://146.190.104.48:1234/stream/cdnindonesia/khazanah/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="KNOWLEDGE+" tvg-name="KNOWLEDGE+" tvg-logo="https://padootv.me/img/logo/PadooTV.png",KNOWLEDGE+
+http://146.190.104.48:1234/stream/cdnindonesia/knowledge+/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="KOMPASTV" tvg-name="KOMPASTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",KOMPASTV
+http://146.190.104.48:1234/stream/cdnindonesia/kompastv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="LESSONLEVEL1ENGLISHUS" tvg-name="LESSONLEVEL1ENGLISHUS" tvg-logo="https://padootv.me/img/logo/PadooTV.png",LESSONLEVEL1ENGLISHUS
+http://146.190.104.48:1234/stream/cdnindonesia/lessonlevel1englishus/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="METROTV" tvg-name="METROTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",METROTV
+http://146.190.104.48:1234/stream/cdnindonesia/metrotv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="MNCTV" tvg-name="MNCTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",MNCTV
+http://146.190.104.48:1234/stream/cdnindonesia/mnctv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="MOTORRACINGTV" tvg-name="MOTORRACINGTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",MOTORRACINGTV
+http://146.190.104.48:1234/stream/cdnindonesia/motorracingtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="MOVIESNEWS" tvg-name="MOVIESNEWS" tvg-logo="https://padootv.me/img/logo/PadooTV.png",MOVIESNEWS
+http://146.190.104.48:1234/stream/cdnindonesia/moviesnews/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="MUSIKINDONESIA" tvg-name="MUSIKINDONESIA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",MUSIKINDONESIA
+http://146.190.104.48:1234/stream/cdnindonesia/musikindonesia/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="NABAWITV" tvg-name="NABAWITV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",NABAWITV
+http://146.190.104.48:1234/stream/cdnindonesia/nabawitv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="NATUREVISIONTV" tvg-name="NATUREVISIONTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",NATUREVISIONTV
+http://146.190.104.48:1234/stream/cdnindonesia/naturevisiontv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="NETTV" tvg-name="NETTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",NETTV
+http://146.190.104.48:1234/stream/cdnindonesia/nettv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ONE" tvg-name="ONE" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ONE
+http://146.190.104.48:1234/stream/cdnindonesia/one/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ONETV" tvg-name="ONETV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ONETV
+http://146.190.104.48:1234/stream/cdnindonesia/onetv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="PIJARTV" tvg-name="PIJARTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",PIJARTV
+http://146.190.104.48:1234/stream/cdnindonesia/pijartv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="PRETTYTV" tvg-name="PRETTYTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",PRETTYTV
+http://146.190.104.48:1234/stream/cdnindonesia/prettytv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://padootv.me/img/logo/PadooTV.png",RCTI
+http://146.190.104.48:1234/stream/cdnindonesia/rcti/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="RTV" tvg-name="RTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",RTV
+http://146.190.104.48:1234/stream/cdnindonesia/rtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="RUSSIATODAY" tvg-name="RUSSIATODAY" tvg-logo="https://padootv.me/img/logo/PadooTV.png",RUSSIATODAY
+http://146.190.104.48:1234/stream/cdnindonesia/russiatoday/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SCTV
+http://146.190.104.48:1234/stream/cdnindonesia/sctv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="SERIESZONE" tvg-name="SERIESZONE" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SERIESZONE
+http://146.190.104.48:1234/stream/cdnindonesia/serieszone/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="SONGTV" tvg-name="SONGTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SONGTV
+http://146.190.104.48:1234/stream/cdnindonesia/songtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="SPEEDTV" tvg-name="SPEEDTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SPEEDTV
+http://146.190.104.48:1234/stream/cdnindonesia/speedtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="SPORTSTV" tvg-name="SPORTSTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SPORTSTV
+http://146.190.104.48:1234/stream/cdnindonesia/sportstv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="SUPERYACHTTV" tvg-name="SUPERYACHTTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SUPERYACHTTV
+http://146.190.104.48:1234/stream/cdnindonesia/superyachttv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TECHSTORM" tvg-name="TECHSTORM" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TECHSTORM
+http://146.190.104.48:1234/stream/cdnindonesia/techstorm/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TRANS7" tvg-name="TRANS7" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TRANS7
+http://146.190.104.48:1234/stream/cdnindonesia/trans7/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TRANSTV" tvg-name="TRANSTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TRANSTV
+http://146.190.104.48:1234/stream/cdnindonesia/transtv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TRAVELTV" tvg-name="TRAVELTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TRAVELTV
+http://146.190.104.48:1234/stream/cdnindonesia/traveltv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TV5MONDE" tvg-name="TV5MONDE" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TV5MONDE
+http://146.190.104.48:1234/stream/cdnindonesia/tv5monde/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TV9
+http://146.190.104.48:1234/stream/cdnindonesia/tv9/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TVMU" tvg-name="TVMU" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TVMU
+http://146.190.104.48:1234/stream/cdnindonesia/tvmu/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TVN" tvg-name="TVN" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TVN
+http://146.190.104.48:1234/stream/cdnindonesia/tvn/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TVONE" tvg-name="TVONE" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TVONE
+http://146.190.104.48:1234/stream/cdnindonesia/tvone/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="TVRI" tvg-name="TVRI" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TVRI
+http://146.190.104.48:1234/stream/cdnindonesia/tvri/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="WAILANA" tvg-name="WAILANA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",WAILANA
+http://146.190.104.48:1234/stream/cdnindonesia/wailana/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="WARNERTV" tvg-name="WARNERTV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",WARNERTV
+http://146.190.104.48:1234/stream/cdnindonesia/warnertv/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="XTREMSPORTS" tvg-name="XTREMSPORTS" tvg-logo="https://padootv.me/img/logo/PadooTV.png",XTREMSPORTS
+http://146.190.104.48:1234/stream/cdnindonesia/xtremsports/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="CDN INDONESIA" tvg-id="ZEEBIOSKOP" tvg-name="ZEEBIOSKOP" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ZEEBIOSKOP
+http://146.190.104.48:1234/stream/cdnindonesia/zeebioskop/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ALHIJRAH" tvg-name="ALHIJRAH" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ALHIJRAH
+http://146.190.104.48:1234/stream/AOTG/ALHIJRAH/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Animal Planet
+http://146.190.104.48:1234/stream/AOTG/AnimalPlanet/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Arena 2" tvg-name="ASTRO Arena 2" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Arena 2
+http://146.190.104.48:1234/stream/AOTG/ASTROArena2/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO AURA" tvg-name="ASTRO AURA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO AURA
+http://146.190.104.48:1234/stream/AOTG/ASTROAURA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Awani" tvg-name="Astro Awani" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Awani
+http://146.190.104.48:1234/stream/AOTG/AstroAwani/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Badminton A" tvg-name="Astro Badminton A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Badminton A
+http://146.190.104.48:1234/stream/AOTG/AstroBadmintonA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO BOO A" tvg-name="ASTRO BOO A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO BOO A
+http://146.190.104.48:1234/stream/AOTG/ASTROBOOA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Box Office" tvg-name="ASTRO Box Office" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Box Office
+http://146.190.104.48:1234/stream/AOTG/ASTROBoxOffice/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Ceria" tvg-name="ASTRO Ceria" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Ceria
+http://146.190.104.48:1234/stream/AOTG/ASTROCeria/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Citra A" tvg-name="ASTRO Citra A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Citra A
+http://146.190.104.48:1234/stream/AOTG/ASTROCitraA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Football B" tvg-name="Astro Football B" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Football B
+http://146.190.104.48:1234/stream/AOTG/AstroFootballB/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Grandstand B" tvg-name="Astro Grandstand B" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Grandstand B
+http://146.190.104.48:1234/stream/AOTG/AstroGrandstandB/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO OASIS" tvg-name="ASTRO OASIS" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO OASIS
+http://146.190.104.48:1234/stream/AOTG/ASTROOASIS/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Premier" tvg-name="ASTRO Premier" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Premier
+http://146.190.104.48:1234/stream/AOTG/ASTROPremier/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Premier League 2 B" tvg-name="Astro Premier League 2 B" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Premier League 2 B
+http://146.190.104.48:1234/stream/AOTG/AstroPremierLeague2B/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Premier League 3" tvg-name="Astro Premier League 3" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Premier League 3
+http://146.190.104.48:1234/stream/AOTG/AstroPremierLeague3/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Premier League 4" tvg-name="Astro Premier League 4" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Premier League 4
+http://146.190.104.48:1234/stream/AOTG/AstroPremierLeague4/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Premier League B" tvg-name="Astro Premier League B" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Premier League B
+http://146.190.104.48:1234/stream/AOTG/AstroPremierLeagueB/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Prima A" tvg-name="ASTRO Prima A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Prima A
+http://146.190.104.48:1234/stream/AOTG/ASTROPrimaA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO RANIA" tvg-name="ASTRO RANIA" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO RANIA
+http://146.190.104.48:1234/stream/AOTG/ASTRORANIA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Ria A" tvg-name="ASTRO Ria A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Ria A
+http://146.190.104.48:1234/stream/AOTG/ASTRORiaA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Sport Plus A" tvg-name="Astro Sport Plus A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Sport Plus A
+http://146.190.104.48:1234/stream/AOTG/AstroSportPlusA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Astro Sport UHD A" tvg-name="Astro Sport UHD A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Astro Sport UHD A
+http://146.190.104.48:1234/stream/AOTG/AstroSportUHDA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Tutor TV" tvg-name="ASTRO Tutor TV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Tutor TV
+http://146.190.104.48:1234/stream/AOTG/ASTROTutorTV/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Vaanavil" tvg-name="ASTRO Vaanavil" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Vaanavil
+http://146.190.104.48:1234/stream/AOTG/ASTROVaanavil/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ASTRO Vellithirai" tvg-name="ASTRO Vellithirai" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ASTRO Vellithirai
+http://146.190.104.48:1234/stream/AOTG/ASTROVellithirai/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="BBC CBeebies" tvg-name="BBC CBeebies" tvg-logo="https://padootv.me/img/logo/PadooTV.png",BBC CBeebies
+http://146.190.104.48:1234/stream/AOTG/BBCCBeebies/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://padootv.me/img/logo/PadooTV.png",BBC Earth
+http://146.190.104.48:1234/stream/AOTG/BBCEarth/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://padootv.me/img/logo/PadooTV.png",BBC Lifestyle
+http://146.190.104.48:1234/stream/AOTG/BBCLifestyle/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Bein Sport 2 A" tvg-name="Bein Sport 2 A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Bein Sport 2 A
+http://146.190.104.48:1234/stream/AOTG/BeinSport2A/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Bein Sport 3 A" tvg-name="Bein Sport 3 A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Bein Sport 3 A
+http://146.190.104.48:1234/stream/AOTG/BeinSport3A/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Bein Sport A" tvg-name="Bein Sport A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Bein Sport A
+http://146.190.104.48:1234/stream/AOTG/BeinSportA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Bernama TV" tvg-name="Bernama TV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Bernama TV
+http://146.190.104.48:1234/stream/AOTG/BernamaTV/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Blippi & Friends" tvg-name="Blippi & Friends" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Blippi & Friends
+http://146.190.104.48:1234/stream/AOTG/Blippi&Friends/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Cartoon Network
+http://146.190.104.48:1234/stream/AOTG/CartoonNetwork/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Celestial Movie HD" tvg-name="Celestial Movie HD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Celestial Movie HD
+http://146.190.104.48:1234/stream/AOTG/CelestialMovieHD/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Cinemax
+http://146.190.104.48:1234/stream/AOTG/Cinemax/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Color Hindi A" tvg-name="Color Hindi A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Color Hindi A
+http://146.190.104.48:1234/stream/AOTG/ColorHindiA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Colors Tamil" tvg-name="Colors Tamil" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Colors Tamil
+http://146.190.104.48:1234/stream/AOTG/ColorsTamil/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Crime+ Investigation" tvg-name="Crime+ Investigation" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Crime+ Investigation
+http://146.190.104.48:1234/stream/AOTG/Crime+Investigation/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Discovery Asia
+http://146.190.104.48:1234/stream/AOTG/DiscoveryAsia/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Discovery HD
+http://146.190.104.48:1234/stream/AOTG/DiscoveryHD/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://padootv.me/img/logo/PadooTV.png",DMAX
+http://146.190.104.48:1234/stream/AOTG/DMAX/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Euro Sport A" tvg-name="Euro Sport A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Euro Sport A
+http://146.190.104.48:1234/stream/AOTG/EuroSportA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Food Network
+http://146.190.104.48:1234/stream/AOTG/FoodNetwork/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Global Trekker
+http://146.190.104.48:1234/stream/AOTG/GlobalTrekker/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Golf Channel
+http://146.190.104.48:1234/stream/AOTG/GolfChannel/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="HBO" tvg-name="HBO" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HBO
+http://146.190.104.48:1234/stream/AOTG/HBO/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="HBO A" tvg-name="HBO A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HBO A
+http://146.190.104.48:1234/stream/AOTG/HBOA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HBO Family
+http://146.190.104.48:1234/stream/AOTG/HBOFamily/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://padootv.me/img/logo/PadooTV.png",HBO Hits
+http://146.190.104.48:1234/stream/AOTG/HBOHits/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="History HD" tvg-name="History HD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",History HD
+http://146.190.104.48:1234/stream/AOTG/HistoryHD/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Hits A" tvg-name="Hits A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Hits A
+http://146.190.104.48:1234/stream/AOTG/HitsA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Hits Movie HD A" tvg-name="Hits Movie HD A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Hits Movie HD A
+http://146.190.104.48:1234/stream/AOTG/HitsMovieHDA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Hua Hee Dai" tvg-name="Hua Hee Dai" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Hua Hee Dai
+http://146.190.104.48:1234/stream/AOTG/HuaHeeDai/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="iQiyi" tvg-name="iQiyi" tvg-logo="https://padootv.me/img/logo/PadooTV.png",iQiyi
+http://146.190.104.48:1234/stream/AOTG/iQiyi/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="K Plus A" tvg-name="K Plus A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",K Plus A
+http://146.190.104.48:1234/stream/AOTG/KPlusA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="KBS World A" tvg-name="KBS World A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",KBS World A
+http://146.190.104.48:1234/stream/AOTG/KBSWorldA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Love Nature
+http://146.190.104.48:1234/stream/AOTG/LoveNature/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Moonbug" tvg-name="Moonbug" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Moonbug
+http://146.190.104.48:1234/stream/AOTG/Moonbug/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="MTV Live HD" tvg-name="MTV Live HD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",MTV Live HD
+http://146.190.104.48:1234/stream/AOTG/MTVLiveHD/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Nick Jr A" tvg-name="Nick Jr A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Nick Jr A
+http://146.190.104.48:1234/stream/AOTG/NickJrA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Nickelodeon HD A" tvg-name="Nickelodeon HD A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Nickelodeon HD A
+http://146.190.104.48:1234/stream/AOTG/NickelodeonHDA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="OKEY" tvg-name="OKEY" tvg-logo="https://padootv.me/img/logo/PadooTV.png",OKEY
+http://146.190.104.48:1234/stream/AOTG/OKEY/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="ONE HD A" tvg-name="ONE HD A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",ONE HD A
+http://146.190.104.48:1234/stream/AOTG/ONEHDA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="One HD C" tvg-name="One HD C" tvg-logo="https://padootv.me/img/logo/PadooTV.png",One HD C
+http://146.190.104.48:1234/stream/AOTG/OneHDC/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Premier Sport A" tvg-name="Premier Sport A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Premier Sport A
+http://146.190.104.48:1234/stream/AOTG/PremierSportA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="SG CNA Channel News" tvg-name="SG CNA Channel News" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SG CNA Channel News
+http://146.190.104.48:1234/stream/AOTG/SGCNAChannelNews/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Showcase Movie" tvg-name="Showcase Movie" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Showcase Movie
+http://146.190.104.48:1234/stream/AOTG/ShowcaseMovie/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="SPOTV 2 A" tvg-name="SPOTV 2 A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SPOTV 2 A
+http://146.190.104.48:1234/stream/AOTG/SPOTV2A/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="SPOTV A" tvg-name="SPOTV A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",SPOTV A
+http://146.190.104.48:1234/stream/AOTG/SPOTVA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="STAR Vijay" tvg-name="STAR Vijay" tvg-logo="https://padootv.me/img/logo/PadooTV.png",STAR Vijay
+http://146.190.104.48:1234/stream/AOTG/STARVijay/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Sun Music HD" tvg-name="Sun Music HD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Sun Music HD
+http://146.190.104.48:1234/stream/AOTG/SunMusicHD/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Sun TV HD" tvg-name="Sun TV HD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Sun TV HD
+http://146.190.104.48:1234/stream/AOTG/SunTVHD/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="TLC HD" tvg-name="TLC HD" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TLC HD
+http://146.190.104.48:1234/stream/AOTG/TLCHD/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="TV Sarawak" tvg-name="TV Sarawak" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TV Sarawak
+http://146.190.104.48:1234/stream/AOTG/TVSarawak/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="TVBS Asia" tvg-name="TVBS Asia" tvg-logo="https://padootv.me/img/logo/PadooTV.png",TVBS Asia
+http://146.190.104.48:1234/stream/AOTG/TVBSAsia/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="tvN HD A" tvg-name="tvN HD A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",tvN HD A
+http://146.190.104.48:1234/stream/AOTG/tvNHDA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="tvN Movie A" tvg-name="tvN Movie A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",tvN Movie A
+http://146.190.104.48:1234/stream/AOTG/tvNMovieA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="W Sport A" tvg-name="W Sport A" tvg-logo="https://padootv.me/img/logo/PadooTV.png",W Sport A
+http://146.190.104.48:1234/stream/AOTG/WSportA/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="W Sport C" tvg-name="W Sport C" tvg-logo="https://padootv.me/img/logo/PadooTV.png",W Sport C
+http://146.190.104.48:1234/stream/AOTG/WSportC/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Warner TV
+http://146.190.104.48:1234/stream/AOTG/WarnerTV/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://padootv.me/img/logo/PadooTV.png",WWE Network
+http://146.190.104.48:1234/stream/AOTG/WWENetwork/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Zee Cinema" tvg-name="Zee Cinema" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Zee Cinema
+http://146.190.104.48:1234/stream/AOTG/ZeeCinema/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
+
+#EXTINF:-1 group-title="ASTROGO" tvg-id="Zee Tamil" tvg-name="Zee Tamil" tvg-logo="https://padootv.me/img/logo/PadooTV.png",Zee Tamil
+http://146.190.104.48:1234/stream/AOTG/ZeeTamil/master.m3u8?u=padootv&p=c7d8dad2915bee40a77d651b3028342b95ee972e35a03aac0ef4acee5997d276
